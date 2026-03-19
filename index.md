@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Objecting Machine
 ---
-# Thingking Machine
+# Objecting Machine
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Objecting-Machine (meta)](https://objecting-machine.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Objecting-Machine (gemini)](https://objecting-machine.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Objecting-Machine (geminit)](https://objecting-machine.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Objecting-Machine (openai)](https://objecting-machine.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Objecting-Machine (openaic)](https://objecting-machine.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Objecting-Machine (oaio)](https://objecting-machine.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Objecting-Machine (grok)](https://objecting-machine.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Objecting-Machine (grokf)](https://objecting-machine.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Objecting-Machine (grokc)](https://objecting-machine.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Objecting-Machine (fireworks)](https://objecting-machine.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Objecting-Machine (fireworksr)](https://objecting-machine.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Objecting-Machine (fireworkc)](https://objecting-machine.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Objecting-Machine (depsek)](https://objecting-machine.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Objecting-Machine (depsekc)](https://objecting-machine.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Objecting-Machine (depsekr)](https://objecting-machine.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Objecting-Machine (depsekrp)](https://objecting-machine.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Objecting-Machine is just one of participants of the [Multilogue](multilogue)

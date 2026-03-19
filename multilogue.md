@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thingking
+title: Objecting
 ---
 {% include utilities.html %}
 <p class="dialogue"><span class="speaker">Human</span>What is your question?</p>
